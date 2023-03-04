@@ -408,6 +408,10 @@ a{
   border-bottom: 2px solid #0A0A0A;
 }
 
+.input-box:focus{
+  outline: 0;
+}
+
 .chek__box{
   display: flex;
   margin-left: 96px;
